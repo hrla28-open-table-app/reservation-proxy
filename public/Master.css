@@ -1,0 +1,6 @@
+#reservation {
+  position: absolute;
+  top: 388px;
+  right: 304px;
+  z-index: 1000;
+}
