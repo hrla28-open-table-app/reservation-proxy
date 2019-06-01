@@ -17,10 +17,12 @@
 
 ## Usage
 
+> download all related projects
+> for each project run npm install, npm start, npm run build
+
 > npm install
 > npm start
-> npm run build
-> Go to localhost:3000
+> go to localhost:3000
 
 ## Requirements
 
