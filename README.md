@@ -17,12 +17,13 @@
 
 ## Usage
 
-> download all related projects
-> for each project run npm install, npm start, npm run build
+1. Download all related projects
+  - For each project run npm install, npm start, npm run build
 
-> npm install
-> npm start
-> go to localhost:3000
+2. Running proxy
+  - npm install
+  - npm start
+  - go to localhost:3000
 
 ## Requirements
 
